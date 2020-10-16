@@ -1,0 +1,56 @@
+body {
+    background-color: whitesmoke;
+    width: 1500px;
+}
+.intro h1{
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+}
+.intro p{
+    font-size: 30px;
+    font-weight: 500;
+    color:black;
+}
+.intro {
+    position: static;
+    padding-left: 50px;
+    padding-top: 20px;
+    color:rgb(240, 155, 155);
+    background-color: #cff6cf;
+    padding: 15px;
+    border-radius: 15px;
+    text-align: left;
+    font-family: "Merriweather-Regular", "Times Nex Roman", serif;
+    font-size: 50px;
+    font-style: italic;
+
+}
+img {
+    width: 340px;
+    height: auto;
+    border-radius: 210px;
+    margin: 30px;
+}
+
+.personal {
+    width: 400px;
+    float: center;
+    padding: 40px;
+    background-color: #f6def6;
+    border-radius: 40px;
+}
+.personal table tr td {
+    border: 2px white;
+}
+.personality {
+    width: 900px;
+    translate: 550px -750px;
+    
+
+}
+h2.personality {
+    font-size: 15px;
+}
+#navigator {
+    text-align: center;
+}
